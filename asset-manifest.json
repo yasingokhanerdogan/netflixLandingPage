@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "https://yasingokhanerdogan.github.io/netflixLandingPage/static/js/main.bcbfd4c8.js",
+    "static/media/home-bg.jpg": "https://yasingokhanerdogan.github.io/netflixLandingPage/static/media/home-bg.e85ef9d3e583db75072a.jpg",
+    "static/media/favicon.ico": "https://yasingokhanerdogan.github.io/netflixLandingPage/static/media/favicon.2b046b45feec8856d827.ico",
+    "static/media/logo.svg": "https://yasingokhanerdogan.github.io/netflixLandingPage/static/media/logo.5787551b8de42aef368c379572555ada.svg",
+    "index.html": "https://yasingokhanerdogan.github.io/netflixLandingPage/index.html",
+    "main.bcbfd4c8.js.map": "https://yasingokhanerdogan.github.io/netflixLandingPage/static/js/main.bcbfd4c8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bcbfd4c8.js"
+  ]
+}
